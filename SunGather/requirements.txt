@@ -1,5 +1,5 @@
 PyYAML~=6.0
-paho-mqtt~=2.0
-requests~=2.0
+paho-mqtt2.1.0
+requests2.32.3
 SungrowClient>=0.1.0
-influxdb-client~=1.0
+influxdb-client1.45.0
